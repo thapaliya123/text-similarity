@@ -124,7 +124,7 @@
         - The value of each cell is the frequency of a word in a particular document.
     - compute **cosine angle** between the two vectors representing documents using formulae given below:
         - **cos(A, B)** = _dot_product(A,B) / magnitude(A) * magnitude(B)_
-    - **Notebook Link:** [text_similarity](https://repo.ekbana.info/MLBatchDecember2020/NLP/anish/blob/text_similarity/text_similarity_jaccard_cosine.ipynb)
+    - **Notebook Link:** [text_similarity](https://github.com/thapaliya123/text-similarity/blob/master/text_similarity_jaccard_cosine.ipynb)
 
 # Conclusion
 - We discussed importance of text similarity and two methods in computing similarity score between two documents.
